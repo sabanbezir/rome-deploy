@@ -1,3 +1,4 @@
 shareithub
 web3
 requests
+pip install py-solc-x
