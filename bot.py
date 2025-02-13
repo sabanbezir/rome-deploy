@@ -11,6 +11,7 @@ install_solc("0.8.21")
 set_solc_version("0.8.21")
 print(get_solc_version())
 
+shareithub()
 
 LANGUAGES = {
     "id": {
