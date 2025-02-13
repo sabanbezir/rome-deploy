@@ -1,4 +1,3 @@
 shareithub
 web3
 requests
-solcx
