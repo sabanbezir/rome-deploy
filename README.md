@@ -52,7 +52,7 @@ Install git :
 sudo apt install git -y
 ```
 
-Git clone folder BOT HUMANITY :
+Git clone folder BOT ROME :
 ```
 git clone https://github.com/shareithub/rome-deploy.git
 ```
