@@ -6,6 +6,8 @@
 
 [YOUTUBE CHANNEL](https://www.youtube.com/@SHAREITHUB_COM)
 
+[TUTORIAL BY VIDEO](https://youtu.be/dwf_AB_F43w)
+
 ## FEATURE : ##
 
 - Auto deploy
