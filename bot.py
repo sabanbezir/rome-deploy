@@ -3,9 +3,12 @@ import os
 import time
 from web3 import Web3
 from solcx import compile_source
-from solcx import set_solc_version
+from solcx import install_solc, set_solc_version, get_solc_version
 
-set_solc_version('0.8.21')
+install_solc("0.8.21")
+set_solc_version("0.8.21")
+print(get_solc_version())
+
 
 LANGUAGES = {
     "id": {
