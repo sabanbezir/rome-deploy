@@ -67,7 +67,8 @@ Install Module in file requirements :
 pip install -r requirements.txt
 ```
 
-# EDIT FILE keys.txt & PASTE YOUR PRIVATE KEYS ( SUPPORT MULTI ACCOUNT ) :
+# EDIT FILE keys.txt & PASTE YOUR PRIVATE KEYS 
+( SUPPORT MULTI ACCOUNT ) :
 ```
 nano keys.txt
 ```
