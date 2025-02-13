@@ -1,0 +1,5 @@
+Network name  : Rome
+New RPC URL   : https://rome.testnet.romeprotocol.xyz
+Chain ID      : 200018
+Currency symbol : ROME
+Block explorer URL : https://node2.testnet.romeprotocol.xyz:1000/
