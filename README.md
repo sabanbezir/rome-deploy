@@ -32,6 +32,11 @@ Create screen :
 screen -S rome-deploy
 ```
 
+Install solcx :
+```
+sudo snap install solc
+```
+
 Install python3 :
 ```
 sudo apt install python3 -y
