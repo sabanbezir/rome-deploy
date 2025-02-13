@@ -1,5 +1,11 @@
 # ROME AUTO DEPLOY #
 
+# SUBSCRIBE CHANNEL :
+
+[TELEGRAM CHANNEL](https://t.me/SHAREITHUB_COM)
+
+[YOUTUBE CHANNEL](https://www.youtube.com/@SHAREITHUB_COM)
+
 ## FEATURE : ##
 
 - Auto deploy
@@ -80,5 +86,6 @@ Running bot :
 python3 bot.py
 ```
 
-# AFTER DONE , U CAN OUT SCREEN TO RUNNING 24 HOURS. USE ( CTRL + A + D )
+# AFTER DONE , U CAN OUT SCREEN TO RUNNING 24 HOURS. USE 
+( CTRL + A + D )
 
